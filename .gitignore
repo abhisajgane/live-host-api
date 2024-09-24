@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables file
+.env
+
+# Debugging files
+*.pid
+*.pid.lock
+
+# Directory for temporary files
+tmp/
+temp/
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# IDE files (VSCode, Sublime, etc.)
+.vscode/
+.idea/
+.DS_Store
+
+# Optional npm cache directory
+.npm
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Miscellaneous
+*.tgz
+*.zip
+*.gzip
