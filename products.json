@@ -1,0 +1,36 @@
+[
+    {
+        "name": "iphone",
+        "price": 999,
+        "featured": true,
+        "company": "Apple"
+    },
+    {
+        "name": "iphone15promax",
+        "price": 799,
+        "featured": true,
+        "company": "Apple"
+    },
+    {
+        "name": "watch",
+        "price": 699,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy S21",
+        "price": 799,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "Dell XPS 13",
+        "price": 999,
+        "company": "dell"
+    },
+    {
+        "name": "Redmi Note 10",
+        "price": 199,
+        "featured": false,
+        "company": "Mi"
+    }
+]
